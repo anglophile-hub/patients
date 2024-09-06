@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "firstName": "Harun",
+        "lastName": "Musić",
+        "dateOfBirth": "04.09.1976.",
+        "gender": "Muško",
+        "address": "Grbavica",
+        "phoneNo": "+38762456334"
+    },
+    {
+        "id": 2,
+        "firstName": "Elma",
+        "lastName": "Žalić",
+        "dateOfBirth": "14.03.1988.",
+        "gender": "Žensko",
+        "address": "Grbavica 30",
+        "phoneNo": "+38761354004"
+    },
+    {
+        "id": 3,
+        "firstName": "Adna",
+        "lastName": "Jahić",
+        "dateOfBirth": "02.06.1992.",
+        "gender": "Žensko",
+        "address": "Skenderija 12",
+        "phoneNo": "+38761009657"
+    }
+]
